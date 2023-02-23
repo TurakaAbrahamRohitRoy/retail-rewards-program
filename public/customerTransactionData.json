@@ -1,0 +1,41 @@
+[{
+    "customerName": "Steve",
+    "transactions": [{
+            "date": "2022-01-01",
+            "amount": 120
+        },
+        {
+            "date": "2022-01-15",
+            "amount": 80
+        },
+        {
+            "date": "2022-02-01",
+            "amount": 150
+        },
+        {
+            "date": "2022-03-01",
+            "amount": 60
+        }
+    ]
+},
+{
+    "customerName": "Chris",
+    "transactions": [{
+            "date": "2022-01-05",
+            "amount": 70
+        },
+        {
+            "date": "2022-02-15",
+            "amount": 200
+        },
+        {
+            "date": "2022-02-22",
+            "amount": 130
+        },
+        {
+            "date": "2022-03-10",
+            "amount": 90
+        }
+    ]
+}
+]
